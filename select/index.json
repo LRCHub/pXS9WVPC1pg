@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Be as ONE",
+  "base_artist": "TWICE",
+  "createdAt": "2025-12-01T12:43:17.979734Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Be As One (Klangstein Remix)",
+      "artist": "Minus Blue feat. Emma Saville",
+      "has_synced": true,
+      "path": "select/01_Be_As_One_(Klangstein_Remix)_Minus_Blue_feat._Emma_Saville.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Be As One (Klangstein Remix)",
+      "artist": "Minus Blue ft. Emma Saville",
+      "has_synced": true,
+      "path": "select/02_Be_As_One_(Klangstein_Remix)_Minus_Blue_ft._Emma_Saville.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Be as ONE",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/03_Be_as_ONE_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Be as ONE",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/04_Be_as_ONE_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Be as ONE",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/05_Be_as_ONE_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Be as ONE (Korean Ver.)",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/06_Be_as_ONE_(Korean_Ver.)_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Be as one!!!",
+      "artist": "ダイヤ(CV.小宮有紗) feat. ルビィ(CV.降幡 愛) & チカ(CV.伊波杏樹)",
+      "has_synced": false,
+      "path": "select/07_Be_as_one!!!_ダイヤ(CV.小宮有紗)_feat._ルビィ(CV.降幡_愛)_&_チカ(CV.伊波杏樹).txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Be as one!!!",
+      "artist": "ダイヤ(CV.小宮有紗)、ルビィ(CV.降幡愛)、チカ(CV.伊波杏樹)",
+      "has_synced": false,
+      "path": "select/08_Be_as_one!!!_ダイヤ(CV.小宮有紗)、ルビィ(CV.降幡愛)、チカ(CV.伊波杏樹).txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Be as ONE (Korean Version)",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/09_Be_as_ONE_(Korean_Version)_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Be as ONE (Korean ver.)",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/10_Be_as_ONE_(Korean_ver.)_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Be As One",
+      "artist": "w-inds.",
+      "has_synced": true,
+      "path": "select/11_Be_As_One_w-inds..lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Be as ONE (Korean Ver.)",
+      "artist": "TWICE (트와이스)",
+      "has_synced": true,
+      "path": "select/12_Be_as_ONE_(Korean_Ver.)_TWICE_(트와이스).lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Be as ONE",
+      "artist": "TWICE (트와이스)",
+      "has_synced": true,
+      "path": "select/13_Be_as_ONE_TWICE_(트와이스).lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Be as One",
+      "artist": "w-inds.",
+      "has_synced": true,
+      "path": "select/14_Be_as_One_w-inds..lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "3ree (A Means To Be) (As One Instrumental Remix)",
+      "artist": "Attica Blues",
+      "has_synced": false,
+      "path": "select/15_3ree_(A_Means_To_Be)_(As_One_Instrumental_Remix)_Attica_Blues.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Be as One (radio edit)",
+      "artist": "Sasha",
+      "has_synced": false,
+      "path": "select/16_Be_as_One_(radio_edit)_Sasha.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Be As One",
+      "artist": "w-inds.",
+      "has_synced": false,
+      "path": "select/pl_01_Be_As_One_w-inds..txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Be As One",
+      "artist": "w-inds.",
+      "has_synced": false,
+      "path": "select/pl_02_Be_As_One_w-inds..txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Be As One",
+      "artist": "w-inds.",
+      "has_synced": false,
+      "path": "select/pl_03_Be_As_One_w-inds..txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Be As One",
+      "artist": "w-inds.",
+      "has_synced": false,
+      "path": "select/pl_04_Be_As_One_w-inds..txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Be As One",
+      "artist": "w-inds.",
+      "has_synced": false,
+      "path": "select/pl_05_Be_As_One_w-inds..txt"
+    }
+  ]
+}
